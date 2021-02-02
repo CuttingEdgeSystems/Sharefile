@@ -1,0 +1,16 @@
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\obj\Debug\netcoreapp3.1\sharefileConnect.csprojAssemblyReference.cache
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\obj\Debug\netcoreapp3.1\sharefileConnect.AssemblyInfoInputs.cache
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\obj\Debug\netcoreapp3.1\sharefileConnect.AssemblyInfo.cs
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\obj\Debug\netcoreapp3.1\sharefileConnect.csproj.CoreCompileInputs.cache
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\bin\Debug\netcoreapp3.1\sharefileConnect.exe
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\bin\Debug\netcoreapp3.1\sharefileConnect.deps.json
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\bin\Debug\netcoreapp3.1\sharefileConnect.runtimeconfig.json
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\bin\Debug\netcoreapp3.1\sharefileConnect.runtimeconfig.dev.json
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\bin\Debug\netcoreapp3.1\sharefileConnect.dll
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\bin\Debug\netcoreapp3.1\sharefileConnect.pdb
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\bin\Debug\netcoreapp3.1\ShareFile.Api.Client.dll
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\obj\Debug\netcoreapp3.1\sharefileConnect.csproj.CopyComplete
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\obj\Debug\netcoreapp3.1\sharefileConnect.dll
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\obj\Debug\netcoreapp3.1\sharefileConnect.pdb
+C:\Users\rahee\Documents\c c++\Sharefile\sharefileConnect\obj\Debug\netcoreapp3.1\sharefileConnect.genruntimeconfig.cache
